@@ -1,0 +1,11 @@
+C:/Users/juand/OneDrive/Desktop/CLionProjects/ManejoDeOperadores/cmake-build-debug/CMakeFiles/ManejoDeOperadores.dir
+C:/Users/juand/OneDrive/Desktop/CLionProjects/ManejoDeOperadores/cmake-build-debug/CMakeFiles/evaluacionAdmisiones.dir
+C:/Users/juand/OneDrive/Desktop/CLionProjects/ManejoDeOperadores/cmake-build-debug/CMakeFiles/operadoresLogicosRelacionales.dir
+C:/Users/juand/OneDrive/Desktop/CLionProjects/ManejoDeOperadores/cmake-build-debug/CMakeFiles/operadoresBitwise.dir
+C:/Users/juand/OneDrive/Desktop/CLionProjects/ManejoDeOperadores/cmake-build-debug/CMakeFiles/gestionPermisos.dir
+C:/Users/juand/OneDrive/Desktop/CLionProjects/ManejoDeOperadores/cmake-build-debug/CMakeFiles/cuentaBancaria.dir
+C:/Users/juand/OneDrive/Desktop/CLionProjects/ManejoDeOperadores/cmake-build-debug/CMakeFiles/operacionesAsignaciones.dir
+C:/Users/juand/OneDrive/Desktop/CLionProjects/ManejoDeOperadores/cmake-build-debug/CMakeFiles/operadoresIncrementoPrePost.dir
+C:/Users/juand/OneDrive/Desktop/CLionProjects/ManejoDeOperadores/cmake-build-debug/CMakeFiles/tolkensAlternativos.dir
+C:/Users/juand/OneDrive/Desktop/CLionProjects/ManejoDeOperadores/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/juand/OneDrive/Desktop/CLionProjects/ManejoDeOperadores/cmake-build-debug/CMakeFiles/rebuild_cache.dir

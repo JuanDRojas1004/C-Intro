@@ -1,0 +1,19 @@
+# ninja log v6
+27	964	7600451605617702	CMakeFiles/ManejoDeOperadores.dir/main.cpp.obj	c17c72025261c22e
+4	1098	7600456504432520	CMakeFiles/evaluacionAdmisiones.dir/evaluacionAdmisiones.cpp.obj	7d57736bb980a3cb
+968	1314	7600451615042561	ManejoDeOperadores.exe	3d06dbe71929bc7c
+1099	1273	7600456515388514	evaluacionAdmisiones.exe	206fe40e490f039f
+910	1117	7600462642638841	operadoresLogicosRelacionales.exe	29cc2addd55592d4
+8	906	7600467645754071	CMakeFiles/operadoresBitwise.dir/operadoresBitwise.cpp.obj	c7c9b9cfe6dacad1
+8	839	7600462633621471	CMakeFiles/operadoresLogicosRelacionales.dir/operadoresLogicosRelacionales.cpp.obj	c7c206ef38be3ca6
+907	1074	7600467654738793	operadoresBitwise.exe	4c4cb9e5287c7db
+10	991	7600469796715093	CMakeFiles/gestionPermisos.dir/gestionPermisos.cpp.obj	46c51dee6f5b409a
+991	1142	7600469806522385	gestionPermisos.exe	758eaf202d1b0761
+42	1345	7600471422530725	CMakeFiles/cuentaBancaria.dir/cuentaBancaria.cpp.obj	76026f65ed189b24
+1345	1528	7600471435567868	cuentaBancaria.exe	c5cf70530b7df096
+43	876	7600474898521348	CMakeFiles/operacionesAsignaciones.dir/operadoresAsignaciones.cpp.obj	be19a454a9d22f88
+877	1040	7600474906865289	operacionesAsignaciones.exe	2d0cfd7f2c7eb742
+47	914	7600477108655925	CMakeFiles/operadoresIncrementoPrePost.dir/operadoresIncrementoPrePost.cpp.obj	f026e29feb2c34b
+914	1066	7600477117329110	operadoresIncrementoPrePost.exe	dab26765bc305a53
+41	1284	7600478087627055	CMakeFiles/tolkensAlternativos.dir/tolkensAlternativos.cpp.obj	d35c342f5150f8e5
+1284	1450	7600478100065697	tolkensAlternativos.exe	f6d70aa3d150482f

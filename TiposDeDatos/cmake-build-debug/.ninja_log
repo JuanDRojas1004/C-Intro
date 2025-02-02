@@ -1,0 +1,19 @@
+# ninja log v6
+7	927	7600449499842085	CMakeFiles/TiposDeDatos.dir/main.cpp.obj	55e732513ad92665
+19	878	7600480931509007	CMakeFiles/conversionExplicita.dir/conversionExplícita.cpp.obj	a4232671a521368f
+1000	1171	7600449509765895	TiposDeDatos.exe	850e4b1c0f4e772a
+1184	1348	7600479576193689	conversionTipos.exe	e24493dede00de5f
+14	475	7600492326553589	CMakeFiles/verificarPositivo.dir/verificarPositvo.cpp.obj	813cde43f87ebafb
+29	1183	7600479564640567	CMakeFiles/conversionTipos.dir/conversionTipos.cpp.obj	6f24e9072231201d
+24	953	7600485909347181	CMakeFiles/usoDeConstantes.dir/usoDeConstantes.cpp.obj	13353e1fbf7e88f2
+878	1116	7600480940108645	conversionExplicita.exe	f576aad8d4974b5c
+954	1109	7600485918639538	usoDeConstantes.exe	aabc2bc667d46cd8
+16	456	7600490093594089	CMakeFiles/verificaPrimeraLetra.dir/verificaPrimeraLetra.cpp.obj	7e4f98adb20fa036
+472	558	7600493422374894	verificaAprobado.exe	88623bd3110d9fb4
+456	540	7600490098000980	verificaPrimeraLetra.exe	470978137f41b05f
+475	558	7600492331162018	verificarPositivo.exe	9d2b68c40aef9a20
+14	472	7600493417795184	CMakeFiles/verificaAprobado.dir/verificaAprobado.cpp.obj	a3bd5c09fdde056f
+13	492	7600494598216597	CMakeFiles/verificaCandidato.dir/verificaCandidato.cpp.obj	c91b9bdc148f7a4
+493	609	7600494603005843	verificaCandidato.exe	c948e65580bf3d16
+15	467	7600494969937022	CMakeFiles/verificaCandidato.dir/verificaCandidato.cpp.obj	c91b9bdc148f7a4
+467	550	7600494974460635	verificaCandidato.exe	c948e65580bf3d16

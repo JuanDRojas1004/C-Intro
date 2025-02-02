@@ -1,0 +1,7 @@
+C:/Users/juand/OneDrive/Desktop/CLionProjects/EstucturasDeControl/cmake-build-debug/CMakeFiles/untitled1.dir
+C:/Users/juand/OneDrive/Desktop/CLionProjects/EstucturasDeControl/cmake-build-debug/CMakeFiles/verificarPositivo.dir
+C:/Users/juand/OneDrive/Desktop/CLionProjects/EstucturasDeControl/cmake-build-debug/CMakeFiles/verificarAprobado.dir
+C:/Users/juand/OneDrive/Desktop/CLionProjects/EstucturasDeControl/cmake-build-debug/CMakeFiles/verificarCandidato.dir
+C:/Users/juand/OneDrive/Desktop/CLionProjects/EstucturasDeControl/cmake-build-debug/CMakeFiles/evaluacionCalificacion.dir
+C:/Users/juand/OneDrive/Desktop/CLionProjects/EstucturasDeControl/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/juand/OneDrive/Desktop/CLionProjects/EstucturasDeControl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
